@@ -9,6 +9,7 @@ The public repository contains only the playable builds of the game:
 - `UNIT7-Windows-v1.0.0.zip`
 
 The source code is not included in this repository.
+Download the latest version from the [Releases page](../../releases/latest).
 
 ---
 
@@ -183,6 +184,7 @@ La repository pubblica contiene solo le build giocabili del gioco:
 - `UNIT7-Windows-v1.0.0.zip`
 
 Il codice sorgente non è incluso nella repository.
+Fai il download dell'ultima versione qui: [Releases page](../../releases/latest).
 
 ---
 
