@@ -1,5 +1,5 @@
 # UNIT-7
-[Italiano](#italiano) · [English](#english)
+[Italiano](#Italiano) · [English](#English)
 
 ##English
 **UNIT-7** is a first-person sci-fi puzzle game built in Unity.  
