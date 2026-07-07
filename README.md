@@ -1,5 +1,7 @@
 # UNIT-7
+[Italiano](#italiano) · [English](#english)
 
+##English
 **UNIT-7** is a first-person sci-fi puzzle game built in Unity.  
 The public repository contains only the playable builds of the game:
 
@@ -172,8 +174,8 @@ Developed by:
 
 ---
 
-# UNIT-7 — Italiano
-
+# UNIT-7
+##Italiano
 **UNIT-7** è un videogioco puzzle sci-fi in prima persona sviluppato in Unity.  
 La repository pubblica contiene solo le build giocabili del gioco:
 
